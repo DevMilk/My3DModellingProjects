@@ -7,7 +7,7 @@ I used Visual Programming via Node Editor to look stones shiny crystalline, I al
 
 ![alttext](ScreenShots/InfinityGauntlet.jpg) 
 ![alttext](ScreenShots/InfinityGauntletPalmView.jpg) 
-
+![alttext](ScreenShots/InfinityGauntletPalmClosed.jpg) 
 ---
 
 
