@@ -1,4 +1,4 @@
-# 3D Modeling And Animation as a Hobby
+# 3D Modeling And Animation (as a Hobby)
 
 ## Ninja Panther (New: 22/07/2020)
 
