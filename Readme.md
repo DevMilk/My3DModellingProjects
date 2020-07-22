@@ -8,7 +8,7 @@
 ![alttext](ScreenShots/NinjaBack.png) 
 ![alttext](ScreenShots/NinjaPosed.png) 
 
-### Wireframe of Ninja Panther:
+### Wireframe and Bones of Ninja Panther:
 
 ![alttext](ScreenShots/NinjaWireframe.png) 
 
