@@ -1,6 +1,18 @@
-# 3D Modeling And Animation as a Hobby
+# 3D Modeling And Animation (as a Hobby)
 
-## Forest Creatures (New: 19/07/2020)
+## Ninja Panther (New: 22/07/2020)
+
+### Rigged with Bones, Also model skin can change by applying Wireframe modifier.
+
+![alttext](ScreenShots/Ninja.png) 
+![alttext](ScreenShots/NinjaBack.png) 
+![alttext](ScreenShots/NinjaPosed.png) 
+
+### Wireframe and Bones of Ninja Panther:
+
+![alttext](ScreenShots/NinjaWireframe.png) 
+
+## Forest Creatures 
 
 ### Particle Effects and Hair Components have been used in Project. Also added Rig for all parts (Tail, Arm, Chest, Neck, Ears, etc.)
 
