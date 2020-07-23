@@ -1,6 +1,13 @@
 # 3D Modeling And Animation (as a Hobby)
 
-## Ninja Panther (New: 22/07/2020)
+## HeptaGhoul (New: 23/07/2020)
+
+### Rigged with Bones 
+
+![alttext](ScreenShots/HeptaGhoul.jpg) 
+![alttext](ScreenShots/HeptaGhoulWireframe.png) 
+
+## Ninja Panther 
 
 ### Rigged with Bones, Also model skin can change by applying Wireframe modifier.
 
