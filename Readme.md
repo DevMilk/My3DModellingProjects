@@ -2,7 +2,7 @@
 
 ## HeptaGhoul (New: 23/07/2020)
 
-### Rigged with Bones 
+### Rigged with Bones  
 
 ![alttext](ScreenShots/HeptaGhoul.jpg) 
 ![alttext](ScreenShots/HeptaGhoulWireframe.png) 
